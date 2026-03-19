@@ -102,7 +102,7 @@
     "@payloadcms/ui": "workspace:*",
     "busboy": "^1.6.0",
     "dequal": "2.0.3",
-    "file-type": "21.3.2",
+    "file-type": "21.3.3",
     "graphql-http": "^1.22.0",
     "graphql-playground-html": "1.6.30",
     "http-status": "2.1.0",
