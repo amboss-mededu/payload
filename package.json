@@ -157,7 +157,7 @@
     "cross-env": "7.0.3",
     "dotenv": "16.4.7",
     "drizzle-kit": "0.31.4",
-    "drizzle-orm": "0.44.2",
+    "drizzle-orm": "0.45.2",
     "escape-html": "^1.0.3",
     "execa": "5.1.1",
     "form-data": "3.0.1",
