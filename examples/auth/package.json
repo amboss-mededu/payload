@@ -22,6 +22,7 @@
     "@payloadcms/ui": "latest",
     "cross-env": "^7.0.3",
     "next": "^15.5.14",
+    "next": "^15.5.15",
     "payload": "latest",
     "react": "19.0.0",
     "react-dom": "19.0.0",

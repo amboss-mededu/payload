@@ -18,6 +18,7 @@
     "express": "^4.21.1",
     "graphql": "^16.8.1",
     "next": "15.5.14",
+    "next": "15.5.15",
     "payload": "latest",
     "react": "19.0.0",
     "react-dom": "19.0.0"
