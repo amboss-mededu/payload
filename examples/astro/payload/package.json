@@ -18,12 +18,11 @@
     "generate:importmap": "payload generate:importmap",
     "generate:types": "payload generate:types",
     "lint": "next lint",
-    "payload": "payload",
     "start": "next start"
   },
   "dependencies": {
     "@payloadcms/db-mongodb": "3.11.0",
-    "@payloadcms/next": "3.11.0",
+    "@payloadcms/next": "3.78.0",
     "@payloadcms/richtext-lexical": "3.11.0",
     "cross-env": "^7.0.3",
     "graphql": "^16.8.1",
