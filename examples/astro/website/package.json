@@ -3,15 +3,14 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "astro": "astro",
     "build": "astro build",
     "dev": "astro dev",
     "preview": "astro preview"
   },
   "dependencies": {
-    "@astrojs/node": "^9.5.4",
-    "astro": "^5.1.1",
-    "payload": "3.75.0",
+    "@astrojs/node": "^10.0.0",
+    "astro": "^6.1.6",
+    "payload": "3.79.1",
     "payload-app": "workspace:*"
   }
 }
